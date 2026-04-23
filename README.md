@@ -16,8 +16,6 @@ I'm interested in machine learning, cybersecurity, mobile development, and build
 - **[LearnASL](https://github.com/Teniola-Malomo/LearnASL)** - Duolingo-inspired platform teaching sign language with an interactive sign recognition model
 - **[PyCAPTCHA](https://github.com/Teniola-Malomo/PyCAPTCHA)** - PyTorch lightweight captcha solver with over 98% accuracy
 - **[DELBOT-Mouse](https://github.com/Teniola-Malomo/DELBOT-Mouse)** - Deep learning library to distinguish human and bot mouse movements
-- **[Huawei-2023-Tech-Arena-Data-Assistant](https://github.com/Teniola-Malomo/Huawei-2023-Tech-Arena-Data-Assistant)** - Data assistant built with Huawei ModelArts for the 2023 Tech Arena Hackathon
-
 ## Cybersecurity & Networking
 
 - **[StratosphereLinuxIPS](https://github.com/Teniola-Malomo/StratosphereLinuxIPS)** - ML-based behavioural intrusion prevention system (IDS/IPS)
@@ -48,8 +46,13 @@ I'm interested in machine learning, cybersecurity, mobile development, and build
 
 ## Hackathons
 
-- Huawei Ireland Tech Arena 2023 & 2025
-- BNG Hackathon
+- **[huawei-tech-arena-2025](https://github.com/Teniola-Malomo/huawei-tech-arena-2025)** - Huawei Ireland Tech Arena 2025
+- **[Huawei-2023-Tech-Arena-Data-Assistant](https://github.com/Teniola-Malomo/Huawei-2023-Tech-Arena-Data-Assistant)** - Huawei Ireland Tech Arena 2023
+- **[BNG-Hackathon](https://github.com/Teniola-Malomo/BNG-Hackathon)** - Bank of New Generation Hackathon
+
+## Python Mini Projects
+
+- **[python-mini-projects](https://github.com/Teniola-Malomo/python-mini-projects)** - Collection of early Python projects including games (Snake, Pong, Crossy Road), a Pomodoro timer, flash cards, stock alerts, and a flight deal finder
 
 ---
 
