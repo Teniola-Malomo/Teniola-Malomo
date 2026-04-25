@@ -1,71 +1,50 @@
-# Hi, I'm Teniola Malomo
+# Hey, I'm Oluwateniola 👋🏿
 
-MSc Computer Science student at **Trinity College Dublin** | BSc Computer Science from **Dublin City University**
+But you can call me Teni (10e).
 
-I'm interested in machine learning, cybersecurity, mobile development, and building things that solve real problems.
+Software Engineer @ **HubSpot** | MSc Computer Science @ **Trinity College Dublin** | BSc Computer Science @ **Dublin City University** - First Class Honours, 8th/110
 
----
+I'm into system design, development, and how things work at scale. What really fascinates me is interconnected systems and how data moves, especially now with AI changing everything.
 
-## Research
-
-- **[Dissertation](https://github.com/Teniola-Malomo/Dissertation)** - MSc dissertation at Trinity College Dublin on internet cryptographic key survey analysis for Ireland
-- **[surveys](https://github.com/Teniola-Malomo/surveys)** - Fork of [sftcd/surveys](https://github.com/sftcd/surveys) - Irish internet cryptographic key reuse analysis (dissertation codebase)
-
-## Machine Learning & AI
-
-- **[LearnASL](https://github.com/Teniola-Malomo/LearnASL)** - Duolingo-inspired platform teaching sign language with an interactive sign recognition model
-- **[PyCAPTCHA](https://github.com/Teniola-Malomo/PyCAPTCHA)** - PyTorch lightweight captcha solver with over 98% accuracy
-- **[DELBOT-Mouse](https://github.com/Teniola-Malomo/DELBOT-Mouse)** - Deep learning library to distinguish human and bot mouse movements
-## Cybersecurity & Networking
-
-- **[StratosphereLinuxIPS](https://github.com/Teniola-Malomo/StratosphereLinuxIPS)** - ML-based behavioural intrusion prevention system (IDS/IPS)
-- **[p2pfl](https://github.com/Teniola-Malomo/p2pfl)** - Decentralized federated learning on peer-to-peer networks using gossip protocols
-- **[HumanCursor](https://github.com/Teniola-Malomo/HumanCursor)** - Simulating human cursor movement for automated scripts
-
-## Mobile Development
-
-- **[Tiktok-Clone](https://github.com/Teniola-Malomo/Tiktok-Clone)** - iOS TikTok clone built with Swift and Firebase
-
-## Web Development
-
-- **[dublin-bus-watch](https://github.com/Teniola-Malomo/dublin-bus-watch)** - Real-time Dublin Bus monitoring dashboard (TypeScript, React)
-- **[mums-haven-nurture](https://github.com/Teniola-Malomo/mums-haven-nurture)** - Nurturing platform built with TypeScript
-- **[Kaizen-Journal](https://github.com/Teniola-Malomo/Kaizen-Journal)** - Self-improvement journaling app (React, Firebase)
-- **[enactusdcu-frontend](https://github.com/Teniola-Malomo/enactusdcu-frontend)** - Enactus DCU website frontend (Next.js, Tailwind CSS)
-
-## DevOps & Open Source Contributions
-
-- **[hiero-sdk-js](https://github.com/Teniola-Malomo/hiero-sdk-js)** / **[hiero-sdk-java](https://github.com/Teniola-Malomo/hiero-sdk-java)** - Contributions to the Hiero blockchain SDK
-- **[tig-stack](https://github.com/Teniola-Malomo/tig-stack)** - Telegraf, InfluxDB & Grafana monitoring stack with Docker
-
-## Academic Projects
-
-- **[CompilerConstructionAssignment](https://github.com/Teniola-Malomo/CompilerConstructionAssignment)** - Custom language definition and compiler
-- **[scalable-main-project-2](https://github.com/Teniola-Malomo/scalable-main-project-2)** - Distributed systems architecture (Scalable Computing)
-- **[BNG-Hackathon](https://github.com/Teniola-Malomo/BNG-Hackathon)** - Bank of New Generation hackathon project
-
-## Hackathons
-
-- **[huawei-tech-arena-2025](https://github.com/Teniola-Malomo/huawei-tech-arena-2025)** - Huawei Ireland Tech Arena 2025
-- **[Huawei-2023-Tech-Arena-Data-Assistant](https://github.com/Teniola-Malomo/Huawei-2023-Tech-Arena-Data-Assistant)** - Huawei Ireland Tech Arena 2023
-- **[BNG-Hackathon](https://github.com/Teniola-Malomo/BNG-Hackathon)** - Bank of New Generation Hackathon
-
-## Python Mini Projects
-
-- **[python-mini-projects](https://github.com/Teniola-Malomo/python-mini-projects)** - Collection of early Python projects including games (Snake, Pong, Crossy Road), a Pomodoro timer, flash cards, stock alerts, and a flight deal finder
+Currently finishing my dissertation on internet cryptographic key reuse in Ireland. Check out the research at [tcd-student-research.ie](https://tcd-student-research.ie/).
 
 ---
 
-## Tech Stack
+## Featured Projects
 
-**Languages:** Python, Swift, TypeScript, JavaScript, Java
+| Project | What it does |
+|---------|-------------|
+| **[Irish Internet Key Survey](https://github.com/Teniola-Malomo/surveys)** ⭐ | Scanning Ireland's internet to map cryptographic key reuse across TLS and SSH. Built on sftcd/surveys at TCD. |
+| **[Aegis](https://github.com/Teniola-Malomo/Aegis)** ⭐ | Blockchain-enabled federated learning for cyber threat detection - DDoS, botnets, C&C tracking. DCU Final Year Project. |
+| **[StratosphereLinuxIPS](https://github.com/Teniola-Malomo/StratosphereLinuxIPS)** | ML-based behavioural intrusion prevention system. Detects malicious network traffic in real time. |
+| **[p2pfl](https://github.com/Teniola-Malomo/p2pfl)** | Decentralized federated learning on peer-to-peer networks using gossip protocols. |
+| **[Dublin Bus Watch](https://github.com/Teniola-Malomo/dublin-bus-watch)** | Driver safety auditing dashboard. Tracks trips, speed, harsh braking events, flags dangerous patterns. |
+| **[TikTok Clone](https://github.com/Teniola-Malomo/Tiktok-Clone)** | Full iOS TikTok clone. Swift frontend, Firebase backend. |
 
-**ML/AI:** PyTorch, TensorFlow, Huawei ModelArts
+## Experience
 
-**Web:** React, Next.js, Tailwind CSS, Firebase
+Return offers from all positions.
 
-**Mobile:** Swift, UIKit, Firebase
+- **Software Engineer** @ HubSpot (Nov 2025 - Present)
+- **Software Engineer Intern** @ Amazon (June 2025 - Sept 2025)
+- **Software Engineer Intern** @ Yahoo (Mar 2024 - Oct 2024)
+- **Software Engineer Intern** @ Cellusys (May 2023 - Sept 2023)
+- **Technical Assistant** @ Dublin City University (Sept 2022 - May 2023)
 
-**DevOps:** Docker, Grafana, InfluxDB, Telegraf
+## Other Projects
 
-**Security:** Network scanning, TLS/SSH analysis, IDS/IPS
+**Cybersecurity & ML** - [PyCAPTCHA](https://github.com/Teniola-Malomo/PyCAPTCHA) | [DELBOT-Mouse](https://github.com/Teniola-Malomo/DELBOT-Mouse) | [HumanCursor](https://github.com/Teniola-Malomo/HumanCursor)
+
+**Web** - [Kaizen Journal](https://github.com/Teniola-Malomo/Kaizen-Journal) | [Mum's Haven](https://github.com/Teniola-Malomo/mums-haven-nurture) | [Enactus DCU](https://github.com/Teniola-Malomo/enactusdcu-frontend)
+
+**Open Source** - [hiero-sdk-js](https://github.com/Teniola-Malomo/hiero-sdk-js) | [hiero-sdk-java](https://github.com/Teniola-Malomo/hiero-sdk-java) | [tig-stack](https://github.com/Teniola-Malomo/tig-stack)
+
+**Academic** - [Compiler Construction](https://github.com/Teniola-Malomo/CompilerConstructionAssignment) | [Scalable Computing](https://github.com/Teniola-Malomo/scalable-main-project-2)
+
+**Hackathons** - [Huawei Tech Arena 2025](https://github.com/Teniola-Malomo/huawei-tech-arena-2025) | [Huawei Tech Arena 2023](https://github.com/Teniola-Malomo/Huawei-2023-Tech-Arena-Data-Assistant) | [BNG Hackathon](https://github.com/Teniola-Malomo/BNG-Hackathon)
+
+---
+
+**Languages:** Python, Swift, TypeScript, JavaScript, Java | **ML/AI:** PyTorch, TensorFlow, ModelArts | **Web:** React, Next.js, Firebase | **Security:** TLS/SSH analysis, IDS/IPS, Network scanning
+
+[Portfolio](https://teniola-malomo.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/teniola-malomo/)
