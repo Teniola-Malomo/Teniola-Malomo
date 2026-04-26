@@ -2,7 +2,7 @@
 
 But you can call me Teni (10e).
 
-Software Engineer @ **Amazon** | MSc Computer Science @ **Trinity College Dublin** | BSc Computer Science @ **Dublin City University** - First Class Honours, 8th/110
+Software Engineer @ **HubSpot** | MSc Computer Science @ **Trinity College Dublin** | BSc Computer Science @ **Dublin City University** - First Class Honours, 8th/110
 
 I'm into system design, development, and how things work at scale. What really fascinates me is interconnected systems and how data moves, especially now with AI changing everything.
 
@@ -25,8 +25,8 @@ Currently finishing my dissertation on internet cryptographic key reuse in Irela
 
 Return offers from all positions.
 
-- **Software Engineer** @ Amazon (June 2025 - Present)
-- **Software Engineer Intern** @ HubSpot (Return offer)
+- **Software Engineer** @ HubSpot (Nov 2025 - Apr 2026)
+- **Software Engineer Intern** @ Amazon (June 2025 - Sept 2025)
 - **Software Engineer Intern** @ Yahoo (Mar 2024 - Oct 2024)
 - **Software Engineer Intern** @ Cellusys (May 2023 - Sept 2023)
 - **Technical Assistant** @ Dublin City University (Sept 2022 - May 2023)
