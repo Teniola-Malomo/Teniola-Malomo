@@ -26,6 +26,7 @@ Currently finishing my dissertation on internet cryptographic key reuse in Irela
 Return offers from all positions.
 
 - **Software Engineer** @ Amazon (June 2025 - Present)
+- **Software Engineer Intern** @ HubSpot (Return offer)
 - **Software Engineer Intern** @ Yahoo (Mar 2024 - Oct 2024)
 - **Software Engineer Intern** @ Cellusys (May 2023 - Sept 2023)
 - **Technical Assistant** @ Dublin City University (Sept 2022 - May 2023)
